@@ -1,0 +1,3 @@
+body {
+backgrounp colo : blue;
+}
